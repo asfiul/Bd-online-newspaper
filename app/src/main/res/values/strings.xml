@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BD Online Newspaper</string>
+    <string name="op1">প্রথম আলো</string>
+    <string name="op2">The Daily Ster</string>
+    <string name="op3">কালের কন্ঠ</string>
+    <string name="op4">আমাদের সময়</string>
+    <string name="op5">News Today</string>
+    <string name="op6">দৈনিক আনন্দবাজার</string>
+    <string name="op7">দৈনিক যুগান্তর</string>
+    <string name="op8">Daily Sun</string>
+    <string name="op9">দৈনিক সংবাদ</string>
+    <string name="op10">ভোরের কাগজ</string>
+    <string name="op11">About</string>
+    <string name="op12">Online Newspaper Application \n \n
+     Version:0.1 \n \n
+        Developed By \n \n
+        Asfiul Islam Nibir
+
+
+
+    </string>
+
+
+</resources>
